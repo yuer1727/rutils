@@ -1,0 +1,11 @@
+/Users/aligame/work/rust_repository/rutils/target/debug/deps/libheck-f927dbf2cda68765.rlib: /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/lib.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/camel.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/kebab.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/mixed.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/shouty_snake.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/snake.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/title.rs
+
+/Users/aligame/work/rust_repository/rutils/target/debug/deps/heck-f927dbf2cda68765.d: /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/lib.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/camel.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/kebab.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/mixed.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/shouty_snake.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/snake.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/title.rs
+
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/lib.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/camel.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/kebab.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/mixed.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/shouty_snake.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/snake.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/heck-0.3.1/src/title.rs:

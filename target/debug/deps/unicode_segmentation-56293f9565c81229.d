@@ -1,0 +1,9 @@
+/Users/aligame/work/rust_repository/rutils/target/debug/deps/libunicode_segmentation-56293f9565c81229.rlib: /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/lib.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/grapheme.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/tables.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/word.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/sentence.rs
+
+/Users/aligame/work/rust_repository/rutils/target/debug/deps/unicode_segmentation-56293f9565c81229.d: /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/lib.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/grapheme.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/tables.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/word.rs /Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/sentence.rs
+
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/lib.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/grapheme.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/tables.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/word.rs:
+/Users/aligame/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/unicode-segmentation-1.6.0/src/sentence.rs:
