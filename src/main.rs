@@ -3,10 +3,17 @@
 #[macro_use]
 extern crate structopt;
 
+extern crate base64;
+
 use std::path::PathBuf;
 use structopt::StructOpt;
 
 use chrono::{Local, Utc, TimeZone};
+
+use std::string::String;
+
+
+
 
 
 #[derive(Debug, StructOpt)]
@@ -18,21 +25,16 @@ enum Opt {
         #[structopt(short = "t", long = "time", help = "timestamp for format.")]
         time: i64
     },
-    #[structopt(name = "fetch")]
-    Fetch {
-        #[structopt(long = "dry-run")]
-        dry_run: bool,
-        #[structopt(long = "all")]
-        all: bool,
-        repository: Option<String>
+    #[structopt(name = "base64-decode", about = "base64 decode by you sended.")]
+    Base64Decode {
+        #[structopt(short = "t", long = "text", help = "base64 decode input.")]
+        text: String,
     },
-    #[structopt(name = "commit")]
-    Commit {
-        #[structopt(short = "m")]
-        message: Option<String>,
-        #[structopt(short = "a")]
-        all: bool
-    }
+    #[structopt(name = "base64-encode", about = "base64 encode by you sended.")]
+    Base64Encode {
+        #[structopt(short = "t", long = "text", help = "base64 encode input.")]
+        text: String,
+    },
 }
 
 
@@ -47,8 +49,23 @@ fn main() {
 
             println!("{}", chrono::Local.timestamp_millis(time).format("%Y-%m-%d %H:%M:%S.%s"));
         },
-        Opt::Commit { message, all } => {
-            //...
+        Opt::Base64Decode { text } => {
+            println!("text:{}", text);
+
+            let result = base64::decode(&text);
+            let pure_text = match result {
+                Ok(pure_text) => pure_text,
+                Err(error) => {
+                    panic!("base64 decode error: {:?}", error)
+                },
+            };
+            println!("decode result:\n{}", String::from_utf8(pure_text).unwrap());
+        },
+        Opt::Base64Encode { text } => {
+            println!("text:{}", text);
+
+            let result = base64::encode(&text);
+            println!("encode result:\n{}", result);
         }
         _ => (),
     }
